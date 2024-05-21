@@ -1,3 +1,5 @@
+import { Item } from './item';
+
 export class Basket {
   items: Item[];
   totalSum: number;

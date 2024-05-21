@@ -1,6 +1,7 @@
 import { Page } from '@playwright/test';
 import { BasePage } from './basePage';
 import { waitUtils } from '../utils';
+import { Item, Price } from '../data-types';
 
 export class ProductPage extends BasePage {
   constructor(protected page: Page) {

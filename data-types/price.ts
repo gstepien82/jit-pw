@@ -1,4 +1,4 @@
-interface Price {
+export interface Price {
   val: number;
   ccy: string;
 }

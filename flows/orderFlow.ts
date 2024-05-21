@@ -4,6 +4,7 @@ import { BaseFlow } from './baseFlow';
 import { ProductPage } from '../pages/productPage';
 import { ShopPage } from '../pages/shopPage';
 import { Basket } from '../data-types/basket';
+import { Item } from '../data-types/item';
 
 export class OrderFlow extends BaseFlow {
   homePage: HomePage;
