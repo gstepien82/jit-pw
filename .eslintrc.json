@@ -7,7 +7,7 @@
     "extends": [
         "eslint:recommended",
         "plugin:@typescript-eslint/eslint-recommended",
-        "prettier",
+        // "prettier",
         "plugin:prettier/recommended",
         "plugin:@typescript-eslint/recommended"
     ],
